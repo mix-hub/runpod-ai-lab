@@ -4,6 +4,8 @@ RunPod의 GPU, CUDA, PyTorch, Jupyter가 **이미 준비된 상태**에서 사�
 
 파일은 루트에만 둔다.
 
+**실습 예정 목록:** [BUCKETLIST.md](BUCKETLIST.md) — 07~22번 체크리스트와 기존 노트북 현황
+
 - `environment.py`: GPU와 PyTorch 환경을 한 번 확인하는 독립 스크립트
 - `01_tensors.ipynb`: Tensor, GPU 행렬곱, CPU/GPU 시간과 VRAM
 - `02_autograd.ipynb`: 직접 미분, autograd, 가중치 갱신
